@@ -1,6 +1,6 @@
-# Insta Reels Downloader Backend Django API
+# Instagram Reels Downloader Backend Python Django API
 
-Welcome to the Insta Reels Downloader Backend Django API repository! This project provides a backend API for downloading Instagram Reels, built with Django. It powers the site [reeldown.io](https://reeldown.io).
+Welcome to the Insta Reels Downloader Backend Python Django API repository! This project provides a backend API for downloading Instagram Reels, built with Django. It powers the site [reeldown.io](https://reeldown.io).
 
 ## Features
 
